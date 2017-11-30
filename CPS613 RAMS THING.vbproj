@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{19DC0A0F-2E17-40E6-BEAE-1A7FBE656872}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CPS613_RAMS_THING.My.MyApplication</StartupObject>
+    <RootNamespace>CPS613_RAMS_THING</RootNamespace>
+    <AssemblyName>CPS613 RAMS THING</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CPS613 RAMS THING.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CPS613 RAMS THING.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcademicStanding.Designer.vb">
+      <DependentUpon>AcademicStanding.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AcademicStanding.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CourseInfoObject.Designer.vb">
+      <DependentUpon>CourseInfoObject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CourseInfoObject.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CourseObject.Designer.vb">
+      <DependentUpon>CourseObject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CourseObject.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Enrollment.Designer.vb">
+      <DependentUpon>Enrollment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Enrollment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="erro2.Designer.vb">
+      <DependentUpon>erro2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="erro2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gradDialog.Designer.vb">
+      <DependentUpon>gradDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="gradDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login2.0.Designer.vb">
+      <DependentUpon>login2.0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="login2.0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDI.Designer.vb">
+      <DependentUpon>MDI.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CourseSearch.Designer.vb">
+      <DependentUpon>CourseSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CourseSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Minors.designer.vb">
+      <DependentUpon>Minors.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Minors.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="pageHome.Designer.vb">
+      <DependentUpon>pageHome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pageHome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal Information.Designer.vb">
+      <DependentUpon>Personal Information.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Personal Information.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PsyCourses.designer.vb">
+      <DependentUpon>PsyCourses.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PsyCourses.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewDocs.Designer.vb">
+      <DependentUpon>viewDocs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="viewDocs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AcademicStanding.resx">
+      <DependentUpon>AcademicStanding.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CourseInfoObject.resx">
+      <DependentUpon>CourseInfoObject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CourseObject.resx">
+      <DependentUpon>CourseObject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CourseSearch.resx">
+      <DependentUpon>CourseSearch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Enrollment.resx">
+      <DependentUpon>Enrollment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="erro2.resx">
+      <DependentUpon>erro2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gradDialog.resx">
+      <DependentUpon>gradDialog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login2.0.resx">
+      <DependentUpon>login2.0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDI.resx">
+      <DependentUpon>MDI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Minors.resx">
+      <DependentUpon>Minors.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageHome.resx">
+      <DependentUpon>pageHome.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal Information.resx">
+      <DependentUpon>Personal Information.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PsyCourses.resx">
+      <DependentUpon>PsyCourses.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewDocs.resx">
+      <DependentUpon>viewDocs.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green circle1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green circle2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue circle1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow circle1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\collapse_arrow16001.png" />
+    <EmbeddedResource Include="Resources\fall2015label.png" />
+    <Content Include="Resources\fall2016label.png" />
+    <EmbeddedResource Include="Resources\fall2017label.png" />
+    <Content Include="Resources\fall2018label.png" />
+    <Content Include="Resources\inactive.png" />
+    <Content Include="Resources\open-button.png" />
+    <Content Include="Resources\winter2016label.png" />
+    <Content Include="Resources\winter2017label.png" />
+    <EmbeddedResource Include="Resources\winter2018label.png" />
+    <Content Include="Resources\winter2019label.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

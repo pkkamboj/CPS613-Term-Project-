@@ -1,0 +1,147 @@
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.exe.config
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.exe
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.pdb
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.xml
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.CourseObject.resources
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Resources.resources
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.vbproj.GenerateResource.Cache
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.exe
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.xml
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.pdb
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.vbprojResolveAssemblyReference.cache
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.CourseSearch.resources
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.MDI.resources
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.pageHome.resources
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.CourseInfoObject.resources
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.erro2.resources
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Help.resources
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.login2.resources
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Personal_Information.resources
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.AcademicStanding.resources
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.gradDialog.resources
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.viewDocs.resources
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.EnrollementForm.resources
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Minors.resources
+C:\Users\NituPC\Source\Repos\CPS613\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.PsyCourses.resources
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.exe.config
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.exe
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.xml
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.pdb
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.exe
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.pdb
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.xml
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.vbprojResolveAssemblyReference.cache
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.AcademicStanding.resources
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.CourseInfoObject.resources
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.CourseObject.resources
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.CourseSearch.resources
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.erro2.resources
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.gradDialog.resources
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Help.resources
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.login2.resources
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.MDI.resources
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Minors.resources
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Resources.resources
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.pageHome.resources
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Personal_Information.resources
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.PsyCourses.resources
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.viewDocs.resources
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.vbproj.GenerateResource.Cache
+C:\Users\NituPC\Desktop\New folder\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Enrollment.resources
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.exe.config
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.exe
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.pdb
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.xml
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.vbprojResolveAssemblyReference.cache
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.AcademicStanding.resources
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.CourseInfoObject.resources
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.CourseObject.resources
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.CourseSearch.resources
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Enrollment.resources
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.erro2.resources
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.gradDialog.resources
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Help.resources
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.login2.resources
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.MDI.resources
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Minors.resources
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Resources.resources
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.pageHome.resources
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Personal_Information.resources
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.PsyCourses.resources
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.viewDocs.resources
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.vbproj.GenerateResource.Cache
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.exe
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.xml
+E:\Nitish\Newest Version\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.pdb
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.exe.config
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.exe
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.xml
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.pdb
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.exe
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.pdb
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.xml
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.AcademicStanding.resources
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.CourseInfoObject.resources
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.CourseObject.resources
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.CourseSearch.resources
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Enrollment.resources
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.erro2.resources
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.gradDialog.resources
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Help.resources
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.login2.resources
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.MDI.resources
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Minors.resources
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Resources.resources
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.pageHome.resources
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Personal_Information.resources
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.PsyCourses.resources
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.viewDocs.resources
+C:\Users\nigel\Desktop\RAMMS V2\CPS613 RAMS THING\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.vbproj.GenerateResource.Cache
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.exe.config
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.exe
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.xml
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.pdb
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.exe
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.pdb
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.xml
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.vbprojResolveAssemblyReference.cache
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.AcademicStanding.resources
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.CourseInfoObject.resources
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.CourseObject.resources
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.CourseSearch.resources
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Enrollment.resources
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.erro2.resources
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.gradDialog.resources
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.login2.resources
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.MDI.resources
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Minors.resources
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Resources.resources
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.pageHome.resources
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Personal_Information.resources
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.PsyCourses.resources
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.viewDocs.resources
+D:\Dropbox\RYERSON\CPS613\Final Project\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.vbproj.GenerateResource.Cache
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.exe.config
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.exe
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.xml
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.pdb
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.exe
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.pdb
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\bin\Debug\CPS613 RAMS THING.xml
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.vbprojResolveAssemblyReference.cache
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.AcademicStanding.resources
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.CourseInfoObject.resources
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.CourseObject.resources
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.CourseSearch.resources
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Enrollment.resources
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.erro2.resources
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.gradDialog.resources
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.login2.resources
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.MDI.resources
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Minors.resources
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Resources.resources
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.pageHome.resources
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.Personal_Information.resources
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.PsyCourses.resources
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613_RAMS_THING.viewDocs.resources
+C:\Users\nigel\Desktop\CPS613-RAMSS\CPS613 RAMS THING\obj\Debug\CPS613 RAMS THING.vbproj.GenerateResource.Cache
