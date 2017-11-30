@@ -1,2 +1,2 @@
-# CPS613-Term-Project-
-A term project for my Human Computer Interaction Course, where we created a User friendly interface using Visual Studio.
+# Human Computer Interaction Project
+A term project for my Human Computer Interaction Course, where, in groups using Visual Studio, we created a Intuitive and User friendly interface for students to check courses, graduation progres, adjust courses, view their schedule and more. We conducted a user study, where we got students to test out our interface and asked them questions to obtain their feedback and improve the interface. 
